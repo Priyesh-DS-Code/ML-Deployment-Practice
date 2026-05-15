@@ -1,0 +1,3 @@
+[ 2026-05-13 18:41:15,515 ] 23 root - INFO - Data Ingestion is Started
+[ 2026-05-13 18:41:15,572 ] 26 root - INFO - Read the dataset
+[ 2026-05-13 18:41:15,587 ] 29 root - INFO - Train and Test dataset splited

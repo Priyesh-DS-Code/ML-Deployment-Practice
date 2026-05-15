@@ -1,0 +1,5 @@
+[ 2026-05-13 18:43:04,091 ] 23 root - INFO - Data Ingestion is Started
+[ 2026-05-13 18:43:04,096 ] 26 root - INFO - Read the dataset
+[ 2026-05-13 18:43:04,097 ] 29 root - INFO - Create the artifacts directory
+[ 2026-05-13 18:43:04,099 ] 32 root - INFO - Train and Test dataset splited
+[ 2026-05-13 18:43:04,109 ] 37 root - INFO - seperate the train, test and raw data in artifacts folder

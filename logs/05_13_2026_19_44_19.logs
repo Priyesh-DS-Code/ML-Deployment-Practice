@@ -1,0 +1,8 @@
+[ 2026-05-13 19:44:21,388 ] 26 root - INFO - Data Ingestion is Started
+[ 2026-05-13 19:44:21,395 ] 29 root - INFO - Read the dataset
+[ 2026-05-13 19:44:21,395 ] 32 root - INFO - Create the artifacts directory
+[ 2026-05-13 19:44:21,397 ] 35 root - INFO - Train and Test dataset splited
+[ 2026-05-13 19:44:21,408 ] 40 root - INFO - seperate the train, test and raw data in artifacts folder
+[ 2026-05-13 19:44:21,456 ] 62 root - INFO - Read the train and test dataframe
+[ 2026-05-13 19:44:21,456 ] 36 root - INFO - numerical and categorical columns are defined
+[ 2026-05-13 19:44:21,456 ] 49 root - INFO - Numerical and Categorical Pipeline is ready
